@@ -58,7 +58,9 @@ attributes can be added to the `<l>`.
 
 ## IDL
 
-Surround IDL with `<xmp>...</xmp>` to avoid the need to quote HTML characters.
+Surround with `<pre class='idl'>` to trigger IDL processing.
+
+You can also use `<xmp>...</xmp>` to avoid the need to quote HTML characters inline.
 
 ## Code
 
