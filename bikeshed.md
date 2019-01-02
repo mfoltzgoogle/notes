@@ -10,7 +10,7 @@ metadata and boilerplate.
 # Commands
 
 Command   | Function
-------------------------------------------------
+----------|--------------------------------------
 `spec`    | Generate `.html` from `.bs`
 `watch`   | Regenrate `.html` when `.bs` changes
 `update`  | Update bikeshed autolinking data
